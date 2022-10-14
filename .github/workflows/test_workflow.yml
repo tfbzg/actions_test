@@ -5,4 +5,4 @@ jobs:
   job1:
     runs-on: windows-latest
     steps:
-      - run: dir
+      - run: cd
